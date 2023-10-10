@@ -1,0 +1,15 @@
+1
+8
+16
+8
+16
+24
+20
+8
+16
+24
+8
+16
+The suitcase is empty.
+The suitcase contains the following items:
+Total Weight: 0 kg
